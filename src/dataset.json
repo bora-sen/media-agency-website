@@ -10,57 +10,57 @@
       "title": "Test Title 2",
       "desc": "Donec eget viverra mauris. Aliquam eget leo vitae eros consequat elementum id et sapien. Proin eu sapien vulputate, lacinia massa ac, ultrices quam. In hac habitasse platea dictumst.",
       "screenshot": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/274345024/original/d04d1d46d62ce4f020af5f0af96acd1a4161eb71/design-eye-catching-app-screenshots-for-play-or-app-store.jpg",
-      "date": "25 March 2023"
+      "date": "26 June 2022"
     },
     {
       "title": "Test Title 3",
       "desc": "Donec eget viverra mauris. Aliquam eget leo vitae eros consequat elementum id et sapien. Proin eu sapien vulputate, lacinia massa ac, ultrices quam. In hac habitasse platea dictumst.",
       "screenshot": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/218258744/original/1992769357ead007d912e7a7111d4f1e35d85ad7/design-app-screenshots-for-app-store-and-google-play.png",
-      "date": "25 March 2023"
+      "date": "12 March 2023"
     }
   ],
   "peoples": [
     {
-      "name": "david",
-      "title": "Developer",
-      "slogan": "lorem ipsum dolor sit amet",
+      "name": "David",
+      "title": "Full-Stack Developer",
+      "slogan": "Solving problems one line of code at a time.",
       "instagramUrl": "https://instagram.com/senkisibora",
-      "instagramNick": "@david"
+      "instagramNick": "@davidthecoder"
     },
     {
-      "name": "james",
-      "title": "Developer",
-      "slogan": "lorem ipsum dolor sit amet",
+      "name": "James",
+      "title": "Senior Full-Stack Developer",
+      "slogan": "Good code is its own best documentation.",
       "instagramUrl": "https://instagram.com/senkisibora",
-      "instagramNick": "@james"
+      "instagramNick": "@frontendjames"
     },
     {
-      "name": "maria",
-      "title": "Developer",
-      "slogan": "lorem ipsum dolor sit amet",
+      "name": "Maria",
+      "title": "UI/UX Designer",
+      "slogan": "Creating beauty through purposeful design",
       "instagramUrl": "https://instagram.com/senkisibora",
-      "instagramNick": "@maria"
+      "instagramNick": "@designbymaria"
     },
     {
-      "name": "mark",
-      "title": "Developer",
-      "slogan": "lorem ipsum dolor sit amet",
+      "name": "Mark",
+      "title": "Marketing Manager",
+      "slogan": "The best marketing doesn't feel like marketing.",
       "instagramUrl": "https://instagram.com/senkisibora",
-      "instagramNick": "@mark"
+      "instagramNick": "@markmarketing"
     },
     {
-      "name": "sam",
-      "title": "Developer",
-      "slogan": "lorem ipsum dolor sit amet",
+      "name": "Sam",
+      "title": "Junior Full-Stack Developer",
+      "slogan": "Working, Testing, Repeating..",
       "instagramUrl": "https://instagram.com/senkisibora",
-      "instagramNick": "@sam"
+      "instagramNick": "@wannabedevsam"
     },
     {
-      "name": "selena",
-      "title": "Developer",
-      "slogan": "lorem ipsum dolor sit amet",
+      "name": "Selena",
+      "title": "Social Media Manager",
+      "slogan": "Social media is not just a platform, it's a conversation.",
       "instagramUrl": "https://instagram.com/senkisibora",
-      "instagramNick": "@selena"
+      "instagramNick": "@selenamain"
     }
   ]
 }

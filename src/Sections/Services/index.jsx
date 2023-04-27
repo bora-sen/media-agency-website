@@ -28,7 +28,7 @@ function Services() {
     <section id="Services" className="w-full h-[100svh]">
       <div className="w-full h-full flex flex-col md:flex-row relative">
         <div className="hidden bg-black h-screen md:w-1/2 w-full md:flex items-center justify-center">
-          <img className="invert" src="./src/Assets/marketing.png" alt="" />
+          <img className="invert" src="assets/marketing.png" alt="" />
         </div>
         <div className="h-screen md:w-1/2 w-full text-start flex flex-col items-center justify-evenly px-4">
           <div className="feature-card">
