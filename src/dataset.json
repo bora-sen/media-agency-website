@@ -1,0 +1,66 @@
+{
+  "works": [
+    {
+      "title": "Test Title",
+      "desc": "Donec eget viverra mauris. Aliquam eget leo vitae eros consequat elementum id et sapien. Proin eu sapien vulputate, lacinia massa ac, ultrices quam. In hac habitasse platea dictumst.",
+      "screenshot": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/117596857/original/ed46daeca33a416018c0229573f9c54a17570dc9/design-attractive-screenshots-for-play-store-and-apps-store.png",
+      "date": "25 March 2023"
+    },
+    {
+      "title": "Test Title 2",
+      "desc": "Donec eget viverra mauris. Aliquam eget leo vitae eros consequat elementum id et sapien. Proin eu sapien vulputate, lacinia massa ac, ultrices quam. In hac habitasse platea dictumst.",
+      "screenshot": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/274345024/original/d04d1d46d62ce4f020af5f0af96acd1a4161eb71/design-eye-catching-app-screenshots-for-play-or-app-store.jpg",
+      "date": "25 March 2023"
+    },
+    {
+      "title": "Test Title 3",
+      "desc": "Donec eget viverra mauris. Aliquam eget leo vitae eros consequat elementum id et sapien. Proin eu sapien vulputate, lacinia massa ac, ultrices quam. In hac habitasse platea dictumst.",
+      "screenshot": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/218258744/original/1992769357ead007d912e7a7111d4f1e35d85ad7/design-app-screenshots-for-app-store-and-google-play.png",
+      "date": "25 March 2023"
+    }
+  ],
+  "peoples": [
+    {
+      "name": "david",
+      "title": "Developer",
+      "slogan": "lorem ipsum dolor sit amet",
+      "instagramUrl": "https://instagram.com/senkisibora",
+      "instagramNick": "@david"
+    },
+    {
+      "name": "james",
+      "title": "Developer",
+      "slogan": "lorem ipsum dolor sit amet",
+      "instagramUrl": "https://instagram.com/senkisibora",
+      "instagramNick": "@james"
+    },
+    {
+      "name": "maria",
+      "title": "Developer",
+      "slogan": "lorem ipsum dolor sit amet",
+      "instagramUrl": "https://instagram.com/senkisibora",
+      "instagramNick": "@maria"
+    },
+    {
+      "name": "mark",
+      "title": "Developer",
+      "slogan": "lorem ipsum dolor sit amet",
+      "instagramUrl": "https://instagram.com/senkisibora",
+      "instagramNick": "@mark"
+    },
+    {
+      "name": "sam",
+      "title": "Developer",
+      "slogan": "lorem ipsum dolor sit amet",
+      "instagramUrl": "https://instagram.com/senkisibora",
+      "instagramNick": "@sam"
+    },
+    {
+      "name": "selena",
+      "title": "Developer",
+      "slogan": "lorem ipsum dolor sit amet",
+      "instagramUrl": "https://instagram.com/senkisibora",
+      "instagramNick": "@selena"
+    }
+  ]
+}
