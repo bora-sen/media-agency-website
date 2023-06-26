@@ -31,7 +31,7 @@ function AboutUs() {
         {peoples.map((people, index) => {
           return (
             <div key={index} className="people-card flex flex-col justify-between overflow-hidden">
-              <img className="w-[18rem] mx-auto" src={`/assets/People/${people.name.toLowerCase()}.svg`} alt="" />
+              <img className="w-[18rem] mx-auto" src={`/modio-website/assets/People/${people.name.toLowerCase()}.svg`} alt="" />
               <div className="grid mx-auto text-center my-4">
                 <h5 className="text-2xl font-bold sm:text-3xl">{people.name}</h5>
                 <span className="text-sm sm:text-base">{people.title}</span>
